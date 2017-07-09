@@ -1,0 +1,15 @@
+{
+  "appname" : "Leaderboard",
+  "version" : 0.1,
+  "logname" : "ldb",
+  "logpath" : "/home/data/logs/",
+  "port" : 3000,
+  "starturl" : "leaderboard/ac1/1/100",
+  "database" : {
+    "dbname": "leaderboard.db",
+    "number_of_tags" : 10,
+    "number_of_acc" : 10,
+    "path" : "/home/data/database/"
+  },
+  "sourcepath" : "/home/data/"
+}
